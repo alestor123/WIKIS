@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var wikis = require('./App'),
 chalk = require('chalk'),
 figlet = require('figlet'),
